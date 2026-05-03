@@ -52,14 +52,6 @@
 
 ---
 
-## � GitHub Contributions
-
-- **190** Total Contributions
-- **Current Streak:** 7 (Apr 26 - May 2)
-- **Longest Streak:** 7 (Apr 26 - May 2)
-
----
-
 ## �📫 Connect with Me
 
 - Always open to collaborating on learning projects and coding challenges.
