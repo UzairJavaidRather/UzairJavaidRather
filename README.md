@@ -1,68 +1,166 @@
-<h1 align="center">Hi 👋, I'm Uzair Javaid Rather</h1>
-<h3 align="center">CSE Student | Aspiring Full-Stack Developer | Python & Java Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <strong>Learning • Coding • Building • Growing</strong>
-</p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uzair%20Javaid%20Rather&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=58&descColor=a8c8e8&animation=fadeIn" width="100%"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-- Currently focused on strengthening Full-Stack Web Development, Python, Data Structures & Algorithms, and Object-Oriented Programming.
-- Passionate about writing clean code, solving real problems, and building projects that make learning visible.
-- Driven by curiosity, collaboration, and continuous improvement.
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+%E2%80%A2+Coding+%E2%80%A2+Building+%E2%80%A2+Growing;Full-Stack+Development+%7C+Python+%7C+Java;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## 💻 Skills
+</div>
 
-### Languages
+---
 
-- C
-- C++
-- Java
-- **Python**
-- JavaScript
+## 🧑‍💻 About Me
 
-### Web / Tools
+> *"Code is the closest thing we have to a superpower."*
 
-- HTML
-- CSS
-- MySQL
-- Git
+- 🎓 **CSE Student** — passionate about writing code that actually matters
+- 🔭 Currently sharpening: **Full-Stack Web Dev**, **Python**, **DSA**, and **OOP**
+- 🌱 Believer in learning in public and building in the open
+- 🤝 Open to collaborating on learning projects and coding challenges
+- ⚡ Fun fact: I debug better with coffee ☕
 
-## 🔧 Technologies & Tools
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=UzairJavaidRather&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12" height="180"/>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzairJavaidRather&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12&langs_count=8" height="180"/>
+
+</div>
+
+<div align="center">
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=UzairJavaidRather&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=12" height="180"/>
+
+</div>
+
+---
+
+## 🗓️ Monthly Contribution Activity
+
+<div align="center">
+
+<!-- Activity Graph — shows daily contributions over last few months -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UzairJavaidRather&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="100%"/>
+
+</div>
+
+---
+
+## 💡 Skills & Technologies
+
+### 🔤 Languages
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
+
+### 🌐 Web & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
 
 ## 🌱 Currently Learning
 
-- Advanced Python programming and libraries
-- Web application development and responsive UI
-- Algorithms, data structures, and problem-solving patterns
-- Git workflows and version control best practices
+| Area | Focus |
+|------|-------|
+| 🐍 Python | Advanced libraries, scripting, automation |
+| 🌐 Web Dev | Full-Stack apps, responsive UI, REST APIs |
+| 🧠 DSA | Algorithms, data structures, problem patterns |
+| 🔁 Git | Workflows, branching strategies, open source |
+| ☕ Java | OOP principles, design patterns |
 
 ---
 
-## � GitHub Contributions
+## 🏆 GitHub Trophies
 
-- **190** Total Contributions
-- **Current Streak:** 7 (Apr 26 - May 2)
-- **Longest Streak:** 7 (Apr 26 - May 2)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=UzairJavaidRather&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+
+</div>
 
 ---
 
-## �📫 Connect with Me
+## 📈 Profile Insights
 
-- Always open to collaborating on learning projects and coding challenges.
-- Feel free to add contact details or links here when ready.
+<div align="center">
 
+<!-- Profile views counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=UzairJavaidRather&color=58a6ff&style=for-the-badge&label=Profile+Views)
 
+<!-- Followers badge -->
+[![GitHub followers](https://img.shields.io/github/followers/UzairJavaidRather?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github)](https://github.com/UzairJavaidRather)
+
+<!-- Stars badge -->
+[![GitHub User's stars](https://img.shields.io/github/stars/UzairJavaidRather?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github)](https://github.com/UzairJavaidRather)
+
+</div>
+
+---
+
+## 📅 Contribution Snake
+
+<div align="center">
+
+<!--
+  To enable the snake animation, add this GitHub Action to your profile repo:
+  File: .github/workflows/snake.yml
+  It auto-generates the snake animation from your contribution graph.
+  Instructions: https://github.com/Platane/snk
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UzairJavaidRather/UzairJavaidRather/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UzairJavaidRather/UzairJavaidRather/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/UzairJavaidRather/UzairJavaidRather/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+> 💡 *Enable the snake by setting up the [Platane/snk](https://github.com/Platane/snk) GitHub Action in your profile repo.*
+
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-UzairJavaidRather-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UzairJavaidRather)
+
+*Feel free to reach out — always up for collaborating, learning, or just geeking out over code.*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
