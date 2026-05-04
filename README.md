@@ -32,17 +32,6 @@
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=UzairJavaidRather&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&border_radius=12" height="180"/> -->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&amp;theme=dark" alt="anii693"></
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzairJavaidRather&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=12&langs_count=8" height="180"/>
-
-</div>
-
-<div align="center">
-
 <!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=UzairJavaidRather&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=12" height="180"/>
 
@@ -96,15 +85,6 @@
 | 🔁 Git | Workflows, branching strategies, open source |
 | ☕ Java | OOP principles, design patterns |
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=UzairJavaidRather&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
 
 ---
 
@@ -120,29 +100,6 @@
 
 <!-- Stars badge -->
 [![GitHub User's stars](https://img.shields.io/github/stars/UzairJavaidRather?style=for-the-badge&color=ffd700&labelColor=0d1117&logo=github)](https://github.com/UzairJavaidRather)
-
-</div>
-
----
-
-## 📅 Contribution Snake
-
-<div align="center">
-
-<!--
-  To enable the snake animation, add this GitHub Action to your profile repo:
-  File: .github/workflows/snake.yml
-  It auto-generates the snake animation from your contribution graph.
-  Instructions: https://github.com/Platane/snk
--->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UzairJavaidRather/UzairJavaidRather/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UzairJavaidRather/UzairJavaidRather/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/UzairJavaidRather/UzairJavaidRather/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-> 💡 *Enable the snake by setting up the [Platane/snk](https://github.com/Platane/snk) GitHub Action in your profile repo.*
 
 </div>
 
