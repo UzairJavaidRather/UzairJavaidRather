@@ -32,8 +32,7 @@
 
 <div align="center">
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=UzairJavaidRather&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=12" height="180"/>
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=UzairJavaidRather&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&border_radius=12)
 
 </div>
 
